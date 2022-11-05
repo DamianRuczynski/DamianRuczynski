@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamianRuczynski
-- 👀 I’m interested in angular
-- 🌱 I’m currently learning advanced css
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on apps, social media technology
 - 📫 How to reach me damian.m.ruczynski@gmail.com
 
